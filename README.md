@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 You can ask me about **react, javascript and tailwind.**
+- 💬 You can ask me about **react, javascript, Golang and tailwind.**
 
 - 📫 How to reach me **cahandarov@gmail.com**
 
