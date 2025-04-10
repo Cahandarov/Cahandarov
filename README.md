@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cahandarov&label=Profile%20views&color=0e75b6&style=flat" alt="cahandarov" /> </p>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 You can ask me about **react, javascript and tailwind.**
 
